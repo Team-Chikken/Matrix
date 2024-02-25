@@ -8,6 +8,6 @@ maven { url 'https://jitpack.io' }
 ```
 - Add Matrix as a dependency
 ```gradle
-implementation 'com.github.DimensionalDevelopment:Matrix:<commit>'
+implementation 'com.github.TeamChikken:Matrix:<commit>'
 ```
 Replace `<commit>` with the latest commit hash, or a tag
